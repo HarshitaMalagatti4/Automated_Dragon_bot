@@ -1,0 +1,7 @@
+Automated Dragon Toy – Project Description
+
+The Automated Dragon Toy is an innovative robotic prototype designed to simulate the behavior of a real dragon through intelligent automation. The model incorporates two IR sensors to detect environmental changes such as proximity or motion. Based on these inputs, the system activates actuators through relay circuits to control the dragon’s movements.
+
+The dragon features motorized wing movement that creates a realistic flapping effect and a neck rotation mechanism that allows directional head motion, enhancing its lifelike appearance. The use of relays ensures efficient switching and control of actuators, enabling smooth and synchronized operation.
+
+This project demonstrates the practical implementation of embedded systems and automation by integrating sensors, actuators, and control circuits. It highlights how real-time sensing and mechanical actuation can be combined to develop interactive and autonomous robotic models.
